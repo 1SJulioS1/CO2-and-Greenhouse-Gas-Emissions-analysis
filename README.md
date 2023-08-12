@@ -26,6 +26,15 @@ Copy code
 pip install pandas panel hvplot
 ```
 
+Execute the following to show the page
+
+```
+panel serve notebook.ipynb
+```
+
+Copy and paste this URL in your browser
+http://localhost:5006/notebook
+
 # How It Works
 
 The application loads and preprocesses the CO2 emission data.
