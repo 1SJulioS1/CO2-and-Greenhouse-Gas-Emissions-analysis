@@ -20,12 +20,11 @@ Ensure you have Python 3.x installed on your system.
 
 Install the required libraries using the following command:
 
-bash
 Copy code
-pip install pandas panel hvplot
-Download the CO2 emission data and place it in the data folder.
 
-Run the main script main.py to start the application.
+```
+pip install pandas panel hvplot
+```
 
 # How It Works
 
